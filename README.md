@@ -27,9 +27,9 @@ As a ranked **Kaggle Notebooks Expert** (Top 1.88% Globally), this repository se
 
 | Status | Project Title | Key Technologies | Upvotes |
 | :---: | :--- | :--- | :---: |
-| 🥉 | **[Heart Disease Prediction](https://www.kaggle.com/neurocipher/code)** | Machine Learning, Classification, EDA | `67` |
-| 🥉 | **[Breast Cancer Prediction](https://www.kaggle.com/neurocipher/code)** | Scikit-Learn, Feature Scaling, Diagnostic ML | `24` |
-| 🚀 | **[Life Expectancy Prediction](https://www.kaggle.com/neurocipher/code)** | Regression, Statistical Modeling | `13` |
+| 🥉 | **[Heart Disease Prediction](https://www.kaggle.com/code/neurocipher/heart-disease-prediction)** | Machine Learning, Classification, EDA | `67` |
+| 🥉 | **[Breast Cancer Prediction](https://www.kaggle.com/code/neurocipher/breast-cancer-prediction)** | Scikit-Learn, Feature Scaling, Diagnostic ML | `24` |
+| 🚀 | **[Life Expectancy Prediction](https://www.kaggle.com/code/neurocipher/life-expectancy-prediction)** | Regression, Statistical Modeling | `13` |
 
 ---
 
@@ -38,10 +38,10 @@ As a ranked **Kaggle Notebooks Expert** (Top 1.88% Globally), this repository se
 
 | Status | Project Title | Key Technologies | Upvotes |
 | :---: | :--- | :--- | :---: |
-| 🥉 | **[Smart Text Summarization with Visual NLP](https://www.kaggle.com/neurocipher/code)** | Deep Learning, NLP, Text Processing | `25` |
-| 🥉 | **[Explainable AI for Student Outcome Prediction](https://www.kaggle.com/neurocipher/code)** | XAI, Predictive Modeling | `24` |
-| 🚀 | **[Cats and Dog Classification](https://www.kaggle.com/neurocipher/code)** | Computer Vision, Convolutional Neural Networks | `10` |
-| 🚀 | **[Pig Posture Recognition](https://www.kaggle.com/neurocipher/code)** | Image Classification, Deep Learning | `8` |
+| 🥉 | **[Smart Text Summarization with Visual NLP](https://www.kaggle.com/code/neurocipher/smart-text-summarization-with-visual-nlp)** | Deep Learning, NLP, Text Processing | `25` |
+| 🥉 | **[Explainable AI for Student Outcome Prediction](https://www.kaggle.com/code/neurocipher/explainable-ai-for-student-outcome-prediction)** | XAI, Predictive Modeling | `24` |
+| 🚀 | **[Cats and Dog Classification](https://www.kaggle.com/code/neurocipher/cats-and-dog-classification)** | Computer Vision, Convolutional Neural Networks | `10` |
+| 🚀 | **[Pig Posture Recognition](https://www.kaggle.com/code/neurocipher/pig-posture-recognization)** | Image Classification, Deep Learning | `8` |
 
 ---
 
@@ -50,9 +50,9 @@ As a ranked **Kaggle Notebooks Expert** (Top 1.88% Globally), this repository se
 
 | Status | Project Title | Key Technologies | Upvotes |
 | :---: | :--- | :--- | :---: |
-| 🚀 | **[Fraud Detection: Baseline & SMOTE (Part 1)](https://www.kaggle.com/neurocipher/code)** | Synthetic Minority Oversampling, EDA | `3` |
-| 🚀 | **[Fraud Detection: Imbalance & Model Selection (Part 2)](https://www.kaggle.com/neurocipher/code)** | Hyperparameter Tuning, Algorithm Selection | `4` |
-| 🚀 | **[Fraud Detection: Production Ready Pipeline (Part 3)](https://www.kaggle.com/neurocipher/code)** | End-to-end Deployment Architecture | `4` |
+| 🚀 | **[Fraud Detection: Baseline & SMOTE (Part 1)](https://www.kaggle.com/code/neurocipher/fraud-detection-baseline-modeling-and-smote-part-1)** | Synthetic Minority Oversampling, EDA | `3` |
+| 🚀 | **[Fraud Detection: Imbalance & Model Selection (Part 2)](https://www.kaggle.com/code/neurocipher/imbalance-handling-and-model-selection-part-2)** | Hyperparameter Tuning, Algorithm Selection | `4` |
+| 🚀 | **[Fraud Detection: Production Ready Pipeline (Part 3)](https://www.kaggle.com/code/neurocipher/production-ready-fraud-detection-pipeline-part-3)** | End-to-end Deployment Architecture | `4` |
 
 ---
 
@@ -61,12 +61,12 @@ As a ranked **Kaggle Notebooks Expert** (Top 1.88% Globally), this repository se
 
 | Status | Project Title | Key Technologies | Upvotes |
 | :---: | :--- | :--- | :---: |
-| 🥉 | **[Student Performance Prediction](https://www.kaggle.com/neurocipher/code)** | Educational Data Mining, Regression | `52` |
-| 🚀 | **[House Price Prediction](https://www.kaggle.com/neurocipher/code)** | Linear Regression, Heteroscedasticity | `21` |
-| 🚀 | **[Flight Price Prediction](https://www.kaggle.com/neurocipher/code)** | Temporal Data, Price Forecasting | `18` |
-| 🚀 | **[Customer Segmentation Analysis](https://www.kaggle.com/neurocipher/code)** | Unsupervised Learning, K-Means Clustering | `16` |
-| 🚀 | **[Road Accident Risk](https://www.kaggle.com/neurocipher/code)** | Predictive Risk Modeling | `14` |
-| 🚀 | **[Loan Approval Prediction](https://www.kaggle.com/neurocipher/code)** | Binary Classification, Financial Risk | `10` |
+| 🥉 | **[Student Performance Prediction](https://www.kaggle.com/code/neurocipher/student-performance-prediction)** | Educational Data Mining, Regression | `52` |
+| 🚀 | **[House Price Prediction](https://www.kaggle.com/code/neurocipher/house-price-prediction)** | Linear Regression, Heteroscedasticity | `21` |
+| 🚀 | **[Flight Price Prediction](https://www.kaggle.com/code/neurocipher/flight-price-pridiction)** | Temporal Data, Price Forecasting | `18` |
+| 🚀 | **[Customer Segmentation Analysis](https://www.kaggle.com/code/neurocipher/customer-segmentation-analysis)** | Unsupervised Learning, K-Means Clustering | `16` |
+| 🚀 | **[Road Accident Risk](https://www.kaggle.com/code/neurocipher/road-accident-risk)** | Predictive Risk Modeling | `14` |
+| 🚀 | **[Loan Approval Prediction](https://www.kaggle.com/code/neurocipher/loan-approval-prediction)** | Binary Classification, Financial Risk | `10` |
 
 ---
 
@@ -75,13 +75,13 @@ As a ranked **Kaggle Notebooks Expert** (Top 1.88% Globally), this repository se
 
 | Status | Project Title | Key Technologies | Upvotes |
 | :---: | :--- | :--- | :---: |
-| 🥉 | **[Decision Tree Implementation from Scratch](https://www.kaggle.com/neurocipher/code)** | Pure Python, Information Gain Math | `20` |
-| 🚀 | **[Python Basics for Data Science & ML](https://www.kaggle.com/neurocipher/code)** | Pandas, NumPy, Core Python | `16` |
-| 🚀 | **[K-Means Clustering Demystified](https://www.kaggle.com/neurocipher/code)** | Clustering Mathematics | `15` |
-| 🚀 | **[OOPS for Data Science and Machine Learning](https://www.kaggle.com/neurocipher/code)** | Object-Oriented Programming | `15` |
-| 🚀 | **[Encoding Techniques](https://www.kaggle.com/neurocipher/code)** | Categorical Data Processing | `13` |
-| 🚀 | **[Feature Scaling Demystified](https://www.kaggle.com/neurocipher/code)** | Min-Max, Standardization, Robust Scaling | `9` |
-| 🚀 | **[Train_Test_Split Analysis](https://www.kaggle.com/neurocipher/code)** | Data Splitting Strategies | `5` |
+| 🥉 | **[Decision Tree Implementation from Scratch](https://www.kaggle.com/code/neurocipher/decision-tree-implementation-from-scratch)** | Pure Python, Information Gain Math | `20` |
+| 🚀 | **[Python Basics for Data Science & ML](https://www.kaggle.com/code/neurocipher/python-basics-for-data-science-machine-learning)** | Pandas, NumPy, Core Python | `16` |
+| 🚀 | **[K-Means Clustering Demystified](https://www.kaggle.com/code/neurocipher/k-means-clustering)** | Clustering Mathematics | `15` |
+| 🚀 | **[OOPS for Data Science and Machine Learning](https://www.kaggle.com/code/neurocipher/oops-for-data-science-and-machine-learning)** | Object-Oriented Programming | `15` |
+| 🚀 | **[Encoding Techniques](https://www.kaggle.com/code/neurocipher/encoding-techniques)** | Categorical Data Processing | `13` |
+| 🚀 | **[Feature Scaling Demystified](https://www.kaggle.com/code/neurocipher/feature-scaling-demystified-min-max-stand-robust)** | Min-Max, Standardization, Robust Scaling | `9` |
+| 🚀 | **[Train_Test_Split Analysis](https://www.kaggle.com/code/neurocipher/train-test-split-analysis)** | Data Splitting Strategies | `5` |
 
 ---
 
